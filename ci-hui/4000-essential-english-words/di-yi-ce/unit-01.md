@@ -10,6 +10,8 @@
 
 例句：The woman was afraid of what she saw.
 
+
+
 0002 - **agree** /əˈɡriː/ \[A1\]
 
 释义：To agree is to say "yes" or think the same way.
@@ -20,6 +22,8 @@
 
  B: I agree with you.
 
+
+
 0003 - **angry** /ˈæŋɡri/ \[A1\]
 
 释义：When someone is angry, they may want to speak loudly and fight.
@@ -27,6 +31,8 @@
 ![](../../../.gitbook/assets/0003-angry.jpg)
 
 例句：She didn't do her homework, so her father is angry.
+
+
 
 0004 - **arrive** /əˈraɪv/ \[A1\]
 
@@ -36,6 +42,8 @@
 
 例句：The bus always arrives at the corner of my street at 4:00.
 
+
+
 0005 - **attack** /əˈtæk/ \[A2\]
 
 释义：To attack is to try to fight or to hurt.
@@ -43,6 +51,8 @@
 ![](../../../.gitbook/assets/0005-attack.jpg)
 
 例句：The man with the sword attacked the other man first.
+
+
 
 0006 - **bottom** /ˈbɒtəm/ /ˈbɑːtəm/ \[A2\]
 
@@ -52,6 +62,8 @@
 
 例句：The bottom of my shoe has a hole in it.
 
+
+
 0007 - **clever** /ˈklevə\(r\)/ /ˈklevər/ \[A2\]
 
 释义：When someone is clever, they can solve a hard puzzle or problem.
@@ -59,6 +71,8 @@
 ![](../../../.gitbook/assets/0007-clever.jpg)
 
 例句：The clever boy thought of a good idea.
+
+
 
 0008 - **cruel** /ˈkruːəl/ \[B1\]
 
@@ -68,6 +82,8 @@
 
 例句：The cruel man yelled at his sister.
 
+
+
 0009 - **finally** /'faɪnəlɪ/ \[A2\]
 
 释义：If something happens finally, it happens after a longtime or at the end.
@@ -75,6 +91,8 @@
 ![](../../../.gitbook/assets/0009-finally.jpg)
 
 例句：He finally crossed the finishing line after five hours of running.
+
+
 
 0010 - **hide** /haɪd/ \[A2\]
 
@@ -84,6 +102,8 @@
 
 例句：The other children will **hide** when you count to 100.
 
+
+
 0011 - **hunt** /hʌnt/ \[B1\]
 
 释义：To hunt is to look for or search for an animal to kill.
@@ -91,6 +111,8 @@
 ![](../../../.gitbook/assets/0011-hunt.jpg)
 
 例句：Long ago, people **hunted** with bows\(弓\) and arrows\(箭\).
+
+
 
 0012 - **lot** /lɒt/ /lɑːt/ \[A1\]
 
@@ -100,6 +122,8 @@
 
 例句：There are a **lot** of apples in the basket.
 
+
+
 0013 - **middle** /ˈmɪdl/ \[A2\]
 
 释义：The middle of something is the center or halfway\(中间的\) point.
@@ -108,6 +132,8 @@
 
 例句：The Canadian flag has a maple\(枫树\) leaf in the **middle** of it.
 
+
+
 0014 - **moment** /ˈməʊmənt/ \[A1\]
 
 释义：A moment is a second or a very short time.
@@ -115,6 +141,8 @@
 ![](../../../.gitbook/assets/0014-moment.jpg)
 
 例句：I was only a few **moments** late for the meeting.
+
+
 
 0015 - **pleased** /pliːzd/ \[A2\]
 
@@ -125,6 +153,8 @@
   
 例句：She was **pleased** with the phone call she received.
 
+
+
 0016 - **promise** /ˈprɒmɪs/ /ˈprɑːmɪs/ \[A2\]
 
 释义：To promise is to say you will do something for sure.
@@ -133,6 +163,8 @@
 
 例句：He **promised** to return my key by tomorrow.
 
+
+
 0017 - **reply** /rɪˈplaɪ/ \[A2\]
 
 释义：To reply is to give an answer or say back to someone.
@@ -140,6 +172,8 @@
 ![](../../../.gitbook/assets/0017-reply.jpg)
 
 例句：She asked what time his meeting was. He **replied**: “ At three.”
+
+
 
 0018 - **safe** /seɪf/ \[A2\]
 
@@ -152,6 +186,8 @@ n. 保险箱；冷藏室；纱橱
 ![](../../../.gitbook/assets/0018-safe.jpg)
 
 例句：Put on your seat belt in a car to be **safe**.
+
+
 
 0019 - **trick** /trɪk/ \[B1\]
 
@@ -166,6 +202,8 @@ adj. 用于特技的；有意捉弄人的
 ![](../../../.gitbook/assets/0019-trick.jpg)
 
 例句：His card **trick** really surprised us.
+
+
 
 0020 - **well** /wel/ \[A1\]
 
